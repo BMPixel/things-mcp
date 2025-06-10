@@ -6,6 +6,10 @@
 
 Control your Things.app tasks directly from Claude Code, Claude Desktop, Cursor, and other AI assistants using the Model Context Protocol (MCP).
 
+<a href="https://glama.ai/mcp/servers/@BMPixel/things-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@BMPixel/things-mcp/badge" alt="Things Server MCP server" />
+</a>
+
 ## What It Does
 
 This MCP server lets AI assistants interact with your Things.app tasks on macOS. You can:
